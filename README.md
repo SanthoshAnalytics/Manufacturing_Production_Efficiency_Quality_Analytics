@@ -4,9 +4,8 @@
 
 End-to-End Manufacturing Analytics Project using **Python, MySQL, SQL, and Tableau**
 
-<img src="images/dashboard.png" width="900">
+<img width="1536" height="1024" alt="c83aca09-f49e-46c8-85c5-ad4e3d1fd774" src="https://github.com/user-attachments/assets/5307aef8-4417-4b2d-8cec-c19b8b96c282" />
 
-</div>
 
 ---
 
