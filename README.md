@@ -4,7 +4,6 @@
 
 End-to-End Manufacturing Analytics Project using **Python, MySQL, SQL, and Tableau**
 
-<img width="1536" height="1024" alt="c83aca09-f49e-46c8-85c5-ad4e3d1fd774" src="https://github.com/user-attachments/assets/5307aef8-4417-4b2d-8cec-c19b8b96c282" />
 
 
 ---
@@ -16,6 +15,10 @@ This project analyzes manufacturing production data to evaluate production effic
 The workflow includes data cleaning, exploratory data analysis, feature engineering, SQL-based business analysis, and an interactive Tableau dashboard to provide actionable manufacturing insights.
 
 ---
+
+<img width="1536" height="1024" alt="c83aca09-f49e-46c8-85c5-ad4e3d1fd774" src="https://github.com/user-attachments/assets/5307aef8-4417-4b2d-8cec-c19b8b96c282" />
+
+
 
 ## Objectives
 
